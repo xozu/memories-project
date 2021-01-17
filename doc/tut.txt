@@ -1,0 +1,46 @@
+authentication auth is a complex process
+allowing users to log in and register
+today you're going to learn it completely
+email login using json web token oauth google login and much more
+
+anonymous user: if you not logged in
+masked the form so right now
+it's not visible if you're not logged in
+cannot like something
+
+logged in
+form to sign in
+email and password
+if don't have accunt,
+create an account
+firstname, lastname, email, password
+google sign in -> with one click you'll be able to log in with your google account
+-> it automatically found out my name also my image right and there we go
+with that you can like other people's posts and notice this you can also delete your own post
+-> you also can create new posts yourself
+implement only one like per person considering that we now have the accounts
+it's easy to simply keep an account who like things
+before you were able to like indefinitely but now you can only leave one like per post
+
+added quite a few complex features such as login and registration using json web token so that's also something
+we're going to learn today
+oauth using google 
+local storage -> if your come back to this website or refresh -> this is going to be saved in the local storage
+-> so once you come back, still logged in if the token hasn't expired
+quite a log of interesting stuff coming up
+so let's dive right in
+
+github repository
+so if you're just turning in and if you hwavent hwathced the part 1 and 2 you can click here
+and simply fork the repository
+forking a repository means that it's going to show on your own profile and then you can clone it and use it.
+레포지토리를 포트한다는 것은, 여러분에게 여러분 자신의 프로파일을 보여주고, 여러분은 그것을 클론하고 사용할 수 있게 한다는 것이다.
+fork -> show profile, clone it, can using it.
+have your own repository
+
+Learn Git and GitHub without any code!
+Using the Hello World guide, you'll start a branch, write comments, and open a pull request.
+
+Zeet is the easiest way to develop your app
+db, frontend, backend --> all deploy to Zeet
+do everything in one application
