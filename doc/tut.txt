@@ -44,3 +44,5 @@ Using the Hello World guide, you'll start a branch, write comments, and open a p
 Zeet is the easiest way to develop your app
 db, frontend, backend --> all deploy to Zeet
 do everything in one application
+
+이걸 변경했어
