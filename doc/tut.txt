@@ -46,3 +46,29 @@ db, frontend, backend --> all deploy to Zeet
 do everything in one application
 
 이걸 변경했어
+만약에, 디렉토리 하나 새로 만들고
+처음부터 받아서 새로 시작하겠다 하면
+git clone https://github.com/xozu/memories-project.git 이렇게 시작하면 될 것이다.
+그러니까, 커밋 하지 말고.. 진행하다가
+잘 안되면 다 날리고 새로 받아서 시작하면 될 것이다.
+이때는 clone 이 아니고, update 맞나? checkout 받아서 하면 될 것이다.
+
+JSON 웹 토큰
+JSON Web Token, JWT, "jot" 는 선택적 서명 및 선택적 암호화를 사용하여 데이터를 만들기 위한 인터넷 표준이다.
+페이로드는 몇몇 클레임(claim) 표명(assert)을 처리하는 JSON을 보관하고 있다.
+
+front-end side first
+
+Our routing should be done
+as you can see we have
+Navbar not inside of <Switch>
+so that means it's going to be showing up always.
+
+switch between these two components
+either show the home or show the auth..
+Router, react-reouter...
+Switch, Route
+BrowserRouter
+    Switch
+        Route path="" component={xxx}
+
